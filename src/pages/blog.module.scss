@@ -1,0 +1,17 @@
+.posts {
+  list-style-type: none;
+  margin: 0;
+
+  li {
+    background-color: #f4f4f4;
+    padding: 1rem;
+  }
+}
+
+.link {
+  color: #000000;
+
+  &:hover {
+    opacity: 0.7;
+  }
+}
